@@ -1,0 +1,16 @@
+{
+  "name": "visual-testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "@applitools/eyes-cypress": "^3.6.6",
+    "cypress": "^3.1.5"
+  },
+  "scripts": {
+    "cypress:open": "cypress open"
+  },
+  "author": "TS",
+  "license": "ISC"
+}
